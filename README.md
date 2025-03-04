@@ -10,9 +10,8 @@ This repository contains python implementation for the following approches:
 3. **Held-Karp (Dynamic Programming)** – An optimized approach using memoization to solve TSP in **O(n² · 2ⁿ)** time complexity.  
 
 ### Technologies Used  
-- **Python**  
-- **NumPy**  
+- **Python**   
 - **itertools** (for permutations in brute-force)  
-- **functools** (for memoization in Held-Karp)  
+  
 
 
